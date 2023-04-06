@@ -1,0 +1,3 @@
+Apache module-> SSL module
+
+php Extension-> php_openssl,php_scokets
